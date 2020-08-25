@@ -1,5 +1,5 @@
 {
-  "name": "jRazer/elasticsearch",
+  "name": "jrazer/elasticsearch",
   "description": "Basic Module for the integration of elasticsearch",
   "type": "oxideshop-module",
   "keywords": ["oxid","modules","elasticsearch"],
